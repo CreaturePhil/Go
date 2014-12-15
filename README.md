@@ -4,4 +4,4 @@ Learning Go
 
 ### Resources
 
-[Go by Example](https://gobyexample.com)
+- [Go by Example](https://gobyexample.com)
