@@ -2,4 +2,6 @@
 
 Learning Go
 
-**Go by Example**: https://gobyexample.com/
+### Resources
+
+[Go by Example](https://gobyexample.com)
